@@ -15,6 +15,10 @@ p {
   line-height: 1.25em;
 }
 
+a {
+  text-decoration: none;
+}
+
 nav {
   border-top: 0.4em solid #5ac;
   display: flex;
